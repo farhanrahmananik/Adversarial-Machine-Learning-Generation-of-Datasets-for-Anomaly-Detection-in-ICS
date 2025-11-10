@@ -86,7 +86,7 @@ Through this task, students gain experience in:
 ---
 
 ## 🧑‍💻 Author
-**[Your Full Name]**  
+**Md Farhan Rahman Anik**  
 Brandenburg University of Technology (BTU Cottbus-Senftenberg)
 
 ---
